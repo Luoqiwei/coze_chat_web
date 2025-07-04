@@ -1,0 +1,142 @@
+{
+  "id": "4773414",
+  "name": "LLM",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1277698",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "6503528",
+      "name": "搜索，放大镜",
+      "font_class": "sousuofangdajing",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "1727344",
+      "name": "16寄件、发送-线性",
+      "font_class": "jijianfasong-xianxing",
+      "unicode": "e893",
+      "unicode_decimal": 59539
+    },
+    {
+      "icon_id": "3758135",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "19911814",
+      "name": "相册",
+      "font_class": "xiangce",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "12515452",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1306362",
+      "name": "aislogo",
+      "font_class": "aislogo",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "23977931",
+      "name": "线性触摸图标",
+      "font_class": "xianxingchumotubiao",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "42781573",
+      "name": "触摸",
+      "font_class": "chumo",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "12562411",
+      "name": "复制",
+      "font_class": "fuzhi-",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "943841",
+      "name": "重新加载",
+      "font_class": "sync-copy",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "6953083",
+      "name": "铅笔",
+      "font_class": "thin-_write_penc",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11195053",
+      "name": "铅笔",
+      "font_class": "qianbi",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "25964417",
+      "name": "复制",
+      "font_class": "fuzhi",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "6548572",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "8530232",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "10305134",
+      "name": "机器人",
+      "font_class": "jiqiren",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11916367",
+      "name": "机器人",
+      "font_class": "jiqiren1",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "38114723",
+      "name": "机器人",
+      "font_class": "jiqiren2",
+      "unicode": "e8bb",
+      "unicode_decimal": 59579
+    }
+  ]
+}

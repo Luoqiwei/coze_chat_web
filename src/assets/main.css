@@ -1,0 +1,82 @@
+body, html {
+  margin: 0; /* 去除默认的边距 */
+  padding: 0; /* 去除默认的内边距 */
+  height: 100%; /* 确保 body 和 html 高度为 100% */
+  overflow: hidden; /* 禁止滚动条 */
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  border: none;
+}
+
+.el-textarea__inner {
+  border: none;
+  box-shadow: none;
+}
+
+.el-textarea {
+    --el-input-text-color: var(--el-text-color-regular);
+    --el-input-hover-border-color: none;
+    --el-input-focus-border-color: none;
+}
+.el-button {
+    --el-button-text-color: var(--el-text-color-regular);
+    --el-button-divide-border-color:transparent;
+    --el-button-hover-text-color: #ffffff; 
+    /* 悬停（鼠标指针放上去）状态下的文本颜色 */
+    --el-button-hover-bg-color: transparent;
+    /* 设置按钮在悬停状态下的背景颜色 */
+    --el-button-hover-border-color: transparent;
+    --el-button-active-text-color: transparent;
+    --el-button-active-border-color: transparent;
+    --el-button-active-bg-color: transparent;
+    --el-button-outline-color: transparent;
+    --el-button-hover-link-text-color: transparent;
+    --el-button-active-color: transparent;
+}
+
+
+/* // 阿里字体图标设置 */
+.icon, .iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+ul, li {
+  margin: 0; /* 去除外边距 */
+  padding: 0; /* 去除内边距 */
+  list-style: none; /* 去除默认的项目符号（如圆点） */
+}
+
+
+/* 鼠标滑过 背景色改变 鼠标改变 */
+.cusor-pass:hover {
+  color: #ffffff;
+  cursor: pointer;
+  background-color: #ffffff40;
+}
+
+/* 针对特定的上传区域调整样式 */
+.el-upload-list--picture-card {
+  --el-upload-list-picture-card-size: 50px;
+}
+
+.el-upload--picture-card {
+  --el-upload-picture-card-size: 30px;
+  background-color: #353131;
+  border: 1px var(--el-border-color-darker);
+  border-radius: 6px;
+}
+.el-upload.el-upload--picture-card {
+  position: absolute;
+}
+
+textarea {
+  overflow: hidden;
+}
